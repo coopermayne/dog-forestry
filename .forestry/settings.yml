@@ -8,17 +8,19 @@ sections:
   label: Pages
   create: all
 - type: directory
+  path: _faqs
+  label: Faqs
+  create: all
+  match: "**/*"
+- type: directory
   path: _uploads
   label: Uploads
   create: all
   match: "**/*"
+- type: heading
+  label: For you
 - type: jekyll-posts
   label: Posts
-  create: all
-  match: "**/*"
-- type: directory
-  path: _faqs
-  label: Faqs
   create: all
   match: "**/*"
 upload_dir: uploads
