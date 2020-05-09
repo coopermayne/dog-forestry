@@ -1,0 +1,35 @@
+---
+label: faq page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: number
+  name: order
+  label: order
+- type: text
+  name: description
+  label: description
+- type: text
+  name: by
+  label: by
+- type: text
+  name: icon
+  label: icon
+- type: field_group_list
+  name: questions
+  label: questions
+  fields:
+  - type: textarea
+    name: question
+    label: question
+  - type: textarea
+    name: answer
+    label: answer
+- type: text
+  name: layout
+  label: layout
