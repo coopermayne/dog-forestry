@@ -11,6 +11,7 @@ questions:
     will work.\n\nAnd what about lists?\n\n1. Something\n2. Like this \n3. Should
     work ok"
   image: "/uploads/Screen Shot 2020-04-30 at 7.00.46 PM.png"
+  connect: hearing-procedures.markdown
 layout: ''
 
 ---
