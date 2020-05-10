@@ -46,7 +46,16 @@ layout: default
           {% unless x.connect == empty %}
           <div class="" data-aos="fade-right" data-aos-delay="300" data-aos-offset="0">
             <span class="list-post-description">
-              <a href="/{{site.baseurl}}{{ x.connect | remove: '.md' }}">More Info</a>
+              {% assign link_url = "/" | append: site.baseurl | append: x.connect | remove: '.md' | append: '/' %}
+              {% assign page_title = "" %}
+
+              {% for page in site.pages %}
+                {% if page.url == link_url %}
+                  {% assign page_title = page.title %}
+                {% else %}
+                {% endif %}
+              {% endfor %}
+              More Info: <a href="{{link_url}}">{{page_title}}</a>
             </span>
           </div>
           {% endunless %}
