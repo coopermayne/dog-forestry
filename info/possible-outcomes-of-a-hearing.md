@@ -1,7 +1,6 @@
 ---
 title: Possible Outcomes of a Hearing
 date: 2020-05-06 10:00:00 +0000
-published: false
 
 ---
 In accordance with Los Angeles Municipal Code 53.34.4, the Hearing Examiner can recommend to the General Manager one of four possible outcomes:
