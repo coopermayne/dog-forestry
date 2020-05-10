@@ -1,7 +1,6 @@
 ---
 title: What Makes a Dog “Dangerous”?
 date: 2020-05-13 10:00:00 +0000
-published: false
 
 ---
 The Hearing Examiner must apply the evidence presented during the hearing to the 11 factors listed in LAMC Section 53.34.4(c). Those 11 factors are:
