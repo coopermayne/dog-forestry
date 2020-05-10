@@ -58,3 +58,5 @@ fields:
   name: layout
   label: layout
   hidden: true
+pages:
+- _faqs/preparing-for-a-hearing.md
