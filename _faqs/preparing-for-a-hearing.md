@@ -6,6 +6,16 @@ description: Make sure to know before you go!
 by: Michael Greenberg
 icon: check-square
 questions:
+- question: What is the purpose of the hearing?
+  answer: The hearing is a semi-judicial proceeding – something of an informal trial.
+    It aims solely to gather evidence to ultimately determine whether the animal in
+    question can safely be maintained in the City of Los Angeles. The hearing is only
+    concerned with public safety and welfare – it does not address potential claims
+    for money damages or other matters that would be reserved for civil litigation.
+    The hearing is a public proceeding – anyone may attend and the audio of the proceedings
+    is recorded.
+  image: ''
+  connect: []
 - question: Why am I being summoned by the Los Angeles Department of Animal Services?
   answer: It has been alleged that an animal injured a person or another animal, and/or
     caused property damage within the City of Los Angeles. The Department believes
