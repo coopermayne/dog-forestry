@@ -1,6 +1,6 @@
 ---
 title: Preparing for a Hearing
-date: 2020-05-01 10:00:00 +0000
+date: 2020-05-01T10:00:00.000+00:00
 order: 1
 description: Make sure to know before you go!
 by: Michael Greenberg
@@ -15,7 +15,7 @@ questions:
     The hearing is a public proceeding – anyone may attend and the audio of the proceedings
     is recorded.
   image: ''
-  connect: []
+  connect: info/submitting-new-evidence-during-hearing.md
 - question: Why am I being summoned by the Los Angeles Department of Animal Services?
   answer: It has been alleged that an animal injured a person or another animal, and/or
     caused property damage within the City of Los Angeles. The Department believes
@@ -42,6 +42,6 @@ questions:
     St. (Promenade Towers). Metered street parking is also available in the area.
   image: "/uploads/3.gif"
   connect: []
-layout: 'post'
+layout: post
 
 ---
