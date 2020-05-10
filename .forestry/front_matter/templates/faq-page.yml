@@ -1,5 +1,5 @@
 ---
-label: faq page
+label: FAQ Section
 hide_body: true
 display_field: title
 fields:
@@ -53,7 +53,7 @@ fields:
         section: jekyll-pages
         file: 
         path: 
-    label: connect
+    label: more info link
 - type: text
   name: layout
   label: layout
