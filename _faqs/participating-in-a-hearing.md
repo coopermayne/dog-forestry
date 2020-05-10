@@ -7,6 +7,24 @@ description: Familiarize yourself with the procedures and evidence guidelines th
 by: Cooper Mayne
 icon: loader
 questions:
+- question: ''
+  answer: ''
+  image: ''
+  connect: []
+- question: Can I submit additional evidence to the Hearing Examiner during the hearing?
+  answer: Yes. Additional documents, photographs, or videos can be submitted as evidence
+    during the hearing if they are relevant to the incident(s).
+  image: ''
+  connect: []
+- question: Is my attorney allowed to come?
+  answer: Attorneys are allowed, but certainly not required.
+  image: ''
+  connect: []
+- question: Are language interpreters provided?
+  answer: Yes. It is most helpful to contact the Department in advance to request
+    one. \[link to contact info\]
+  image: ''
+  connect: []
 - question: What happens after the hearing?
   answer: The Hearing Examiner takes in all of the evidence from the hearing – including
     the sworn testimony of those who testified at the hearing and any documents submitted.
