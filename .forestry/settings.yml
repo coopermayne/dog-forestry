@@ -11,11 +11,6 @@ sections:
   match: "**/*"
   templates:
   - more-info-page
-- type: jekyll-pages
-  label: Pages
-  create: documents
-  templates:
-  - more-info-page
 - type: directory
   path: _faqs
   label: Faqs
