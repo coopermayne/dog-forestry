@@ -6,21 +6,33 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
+  default: now
 - type: number
   name: order
   label: order
+  default: 
+  config:
+    required: true
 - type: text
   name: description
   label: description
 - type: text
   name: by
   label: by
+  config:
+    required: true
 - type: text
   name: icon
   label: icon
+  config:
+    required: true
 - type: field_group_list
   name: questions
   label: questions
