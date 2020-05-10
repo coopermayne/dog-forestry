@@ -58,5 +58,3 @@ fields:
   name: layout
   label: layout
   hidden: true
-pages:
-- _faqs/test question.md
