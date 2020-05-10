@@ -7,6 +7,14 @@ description: Familiarize yourself with the procedures and evidence guidelines th
 by: Cooper Mayne
 icon: loader
 questions:
+- question: What happens after the hearing?
+  answer: The Hearing Examiner takes in all of the evidence from the hearing – including
+    the sworn testimony of those who testified at the hearing and any documents submitted.
+    He or she then writes a report to the General Manager of the Department. The report
+    summarizes the evidence collected and recommends what the outcome of the case
+    should be. \[\[Click here\]\] to read more about the possible outcomes of a Hearing
+  image: ''
+  connect: []
 - question: How does the Department determine what the outcome of the case should
     be?
   answer: The Hearing Examiner must apply the evidence presented during the hearing
