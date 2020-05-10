@@ -59,5 +59,6 @@ fields:
   label: layout
   hidden: true
 pages:
+- _faqs/after-the-hearing.md
 - _faqs/participating-in-a-hearing.md
 - _faqs/preparing-for-a-hearing.md
