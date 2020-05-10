@@ -26,6 +26,14 @@ questions:
     the animal poses a threat to public safety.
   image: ''
   connect: []
+- question: Where and when are hearings held?
+  answer: 'The date and time of your hearing should be listed on your summons. All
+    hearings are held downtown at the Department of Animal Services Headquarters:
+    221 N. Figueroa St., Suite 600, Los Angeles, CA 90012. Suite 600 is on the 6th
+    floor. Plan to arrive 15 minutes in advance of your hearing time to allow time
+    to check-in with Department staff.’'
+  image: "/uploads/Screen Shot 2020-04-30 at 7.00.46 PM.png"
+  connect: []
 layout: ''
 
 ---
