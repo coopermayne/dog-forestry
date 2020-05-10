@@ -7,6 +7,12 @@ description: Familiarize yourself with the procedures and evidence guidelines th
 by: Cooper Mayne
 icon: loader
 questions:
+- question: How does the Department determine what the outcome of the case should
+    be?
+  answer: The Hearing Examiner must apply the evidence presented during the hearing
+    to the 11 factors listed in LAMC Section 53.34.4(c). Read more about the factors
+  image: ''
+  connect: []
 - question: What if a witness wrote a statement out instead of appearing at the hearing?
     Can their written statement be submitted into evidence?
   answer: Written statements by people not physically present to testify at the hearing
