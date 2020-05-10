@@ -66,6 +66,8 @@ fields:
         file: 
         path: 
     label: more info link
+    description: If you want to link to another page with more information this is
+      where you make that happen
 - type: text
   name: layout
   label: layout
