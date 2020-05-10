@@ -43,6 +43,13 @@ layout: default
               {{x.answer | markdownify }}
             </span>
           </div>
+          {% unless x.connect == empty %}
+          <div class="" data-aos="fade-right" data-aos-delay="300" data-aos-offset="0">
+            <span class="list-post-description">
+              <a href="/{{site.baseurl}}{{ x.connect | remove: '.md' }}">More Info</a>
+            </span>
+          </div>
+          {% endunless %}
         </div>
       </div>
       {% endfor %}
