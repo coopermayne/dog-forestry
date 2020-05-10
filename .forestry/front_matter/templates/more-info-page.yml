@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- info/appeal-procedure.md
 - info/terms-conditions-and-restrictions.md
