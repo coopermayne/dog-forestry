@@ -1,6 +1,6 @@
 ---
 title: Preparing for a Hearing
-date: 2020-05-20 10:00:00 +0000
+date: 2020-05-01 10:00:00 +0000
 order: 1
 description: Make sure to know before you go!
 by: Michael Greenberg
