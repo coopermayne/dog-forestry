@@ -1,7 +1,6 @@
 ---
 title: Submitting New Evidence During Hearing
 date: 2020-05-18 10:00:00 +0000
-published: false
 
 ---
 Additional documents, photographs, or videos can be submitted as evidence during the hearing if they are relevant to the incident(s). Additional relevant evidence is welcome and encouraged. Bear in mind that in addition to the audio recording of the hearing, any additional evidence submitted during the hearing becomes public record and can be disclosed upon request. Also bear in mind that, in order to consider the evidence, the Hearing Examiner will have to ask you to explain what the evidence is and what its relevance to the case is. The opposing party also must have an opportunity to examine the evidence and ask you questions about it on cross-examination.
