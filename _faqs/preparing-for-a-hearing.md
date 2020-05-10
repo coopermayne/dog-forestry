@@ -42,6 +42,6 @@ questions:
     St. (Promenade Towers). Metered street parking is also available in the area.
   image: "/uploads/3.gif"
   connect: []
-layout: ''
+layout: 'post'
 
 ---

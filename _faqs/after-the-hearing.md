@@ -51,6 +51,6 @@ questions:
     Animal Services’ Board of Commissioners. MORE INFO
   image: ''
   connect: []
-layout: ''
+layout: 'post'
 
 ---
