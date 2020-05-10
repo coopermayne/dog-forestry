@@ -6,6 +6,27 @@ description: Everything you need to know after your hearing has happened.
 by: Taimie Bryant
 icon: help-circle
 questions:
+- question: What was the outcome of my case?
+  answer: Within 30 days (but typically sooner than that), you will be mailed a letter
+    from the Department’s General Manager as to the outcome of the case. A full copy
+    of the Hearing Examiner’s report will also be enclosed.
+  image: ''
+  connect: []
+- question: What are Terms, Conditions, and Restrictions from a hearing?
+  answer: This means that you keep your license to keep an own a dog or other animal
+    in the City, subject to complying with the terms, conditions and restrictions
+    the Department has ordered. See more information below. \[link\]
+  image: ''
+  connect: []
+- question: What happens if I do not comply with the TCR issued to me?
+  answer: If you are alleged to be in violation of the TCR issued to you from a first
+    hearing, the Department can request another administrative hearing. The purpose
+    of that hearing would be to determine if your animal license should be revoked
+    for failure to abide by the TCR. If you are found to be in violation at the second
+    hearing, your license can be revoked; or, alternatively, your license can be reissued
+    with additional or different TCR.
+  image: ''
+  connect: []
 - question: Who can I contact if I have questions about the TCR I was issued or if
     I’m having trouble complying?
   answer: Call your local LA Animal Services center if you have any questions or are
