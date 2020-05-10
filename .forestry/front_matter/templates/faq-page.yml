@@ -62,7 +62,7 @@ fields:
       options: []
       source:
         type: pages
-        section: jekyll-pages
+        section: more-info-pages
         file: 
         path: 
     label: more info link
