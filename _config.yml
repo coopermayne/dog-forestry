@@ -26,6 +26,7 @@ markdown: kramdown
 permalink: "/:title/"
 gems:
 - jekyll-paginate
+- octopress-debugger
 paginate: 5
 plugins_dir:
 - jekyll-admin
