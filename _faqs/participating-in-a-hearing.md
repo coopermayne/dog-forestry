@@ -1,6 +1,6 @@
 ---
 title: Participating in a Hearing
-date: 2020-05-19 10:00:00 +0000
+date: 2020-05-01 10:00:00 +0000
 order: 2
 description: Familiarize yourself with the procedures and evidence guidelines that
   govern LAAS hearings.
