@@ -1,6 +1,7 @@
 ---
 title: Appeal Procedure
 date: 2020-04-29 10:00:00 +0000
+layout: post
 
 ---
 When the Department mails its notice of the outcome of the case, an appeal form is included with instructions. If you wish to appeal the decision, you must submit the form in writing within 15 days of having received it. Bear in mind there are only two reasons that can be the basis for an appeal:

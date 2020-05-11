@@ -1,6 +1,7 @@
 ---
 title: Hearing Procedure
 date: 2020-05-21 10:00:00 +0000
+layout: post
 
 ---
 The hearing is conducted by a Hearing Examiner appointed by the General Manager of the Department. The Hearing Examiner will begin by reading an opening statement informing the parties of the procedures for the hearing and basic terminology. The Examiner will also administer an oath to everyone present who intends to testify. All testimony given must be the truth; lying while under oath is perjury, a criminal offense. For the hearing, the alleged victim is referred to as the “Complaining Witness” and the animal owner is referred to as the “Respondent.”

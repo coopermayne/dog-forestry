@@ -1,6 +1,7 @@
 ---
 title: Terms, Conditions, and Restrictions
 date: 2020-05-13 10:00:00 +0000
+layout: post
 
 ---
 This means that you keep your license to keep an own a dog or other animal in the City, subject to complying with the terms, conditions and restrictions the Department has ordered.
