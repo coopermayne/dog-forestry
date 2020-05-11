@@ -50,7 +50,7 @@ questions:
     (the pet owner) has a right to appeal. Appeals are heard by the Department of
     Animal Services’ Board of Commissioners. MORE INFO
   image: ''
-  connect: []
+  connect: info/appeal-procedure.md
 layout: post
 
 ---
