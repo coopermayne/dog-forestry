@@ -43,7 +43,7 @@ questions:
   answer: The Hearing Examiner must apply the evidence presented during the hearing
     to the 11 factors listed in LAMC Section 53.34.4(c). Read more about the factors
   image: ''
-  connect: []
+  connect: info/what-makes-a-dog-dangerous.md
 layout: post
 
 ---
