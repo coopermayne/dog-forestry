@@ -10,13 +10,13 @@
 
 <div class="container wrap breadcrumbs">
   <a href="{{ '/' | relative_url }}">Home</a>
-  {% for category in categories %}
+
+  {% if page.collection == "faqs" %}
   <span class="prompt margin-left-10 margin-right-10">></span>
-  {% assign route = route | append: '/' | append: category %}
-  {% if forloop.last %}
-  {% if include.title %}{{include.title}}{% else %}{{ category }}{% endif %}
-  {% else %}
-  <a href="{{ route | absolute_url }}">{{ category }}</a>
+  <a href="{{ '/' | relative_url }}">FAQs</a>
   {% endif %}
-  {% endfor %}
+
+  <span class="prompt margin-left-10 margin-right-10">></span>
+  {{page.title}}
+
 </div>
