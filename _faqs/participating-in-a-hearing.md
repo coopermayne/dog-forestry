@@ -37,7 +37,7 @@ questions:
     summarizes the evidence collected and recommends what the outcome of the case
     should be. \[\[Click here\]\] to read more about the possible outcomes of a Hearing
   image: ''
-  connect: []
+  connect: info/possible-outcomes-of-a-hearing.md
 - question: How does the Department determine what the outcome of the case should
     be?
   answer: The Hearing Examiner must apply the evidence presented during the hearing
