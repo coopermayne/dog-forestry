@@ -1,6 +1,6 @@
 ---
 title: Participating in a Hearing
-date: 2020-05-01 10:00:00 +0000
+date: 2020-05-01T10:00:00.000+00:00
 order: 2
 description: Familiarize yourself with the procedures and evidence guidelines that
   govern LAAS hearings.
@@ -20,7 +20,7 @@ questions:
   answer: Yes. Additional documents, photographs, or videos can be submitted as evidence
     during the hearing if they are relevant to the incident(s).
   image: ''
-  connect: []
+  connect: info/submitting-new-evidence-during-hearing.md
 - question: Is my attorney allowed to come?
   answer: Attorneys are allowed, but certainly not required.
   image: ''
@@ -44,6 +44,6 @@ questions:
     to the 11 factors listed in LAMC Section 53.34.4(c). Read more about the factors
   image: ''
   connect: []
-layout: 'post'
+layout: post
 
 ---
