@@ -15,7 +15,7 @@ questions:
     The hearing is a public proceeding – anyone may attend and the audio of the proceedings
     is recorded.
   image: ''
-  connect: info/submitting-new-evidence-during-hearing.md
+  connect: ''
 - question: Why am I being summoned by the Los Angeles Department of Animal Services?
   answer: It has been alleged that an animal injured a person or another animal, and/or
     caused property damage within the City of Los Angeles. The Department believes
