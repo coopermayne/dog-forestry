@@ -11,6 +11,13 @@ fields:
   name: date
   label: date
   default: now
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: post
 pages:
 - info/appeal-procedure.md
 - info/hearing-procedure.md
