@@ -35,11 +35,10 @@ questions:
   image: "/uploads/Screen Shot 2020-04-30 at 7.00.46 PM.png"
   connect: []
 - question: Where should I park?
-  answer: "Parking is available in the building’s garage for a $28 daily max. This
-    garage is at the back of the building; to access it via GPS, navigate to 250 N.
-    Fremont Ave. \n\nMore inexpensive parking options may be available nearby. Additional
-    garages within a short walk can be found at 717 W Temple St, or 123 S. Figueroa
-    St. (Promenade Towers). Metered street parking is also available in the area."
+  answer: |-
+    Parking is available in the building’s garage for a $28 daily max. This garage is at the back of the building; to access it via GPS, navigate to[ 250 N. Fremont Ave.](https://goo.gl/maps/U5NnRqwU5YBtpR587)
+
+    More inexpensive parking options may be available nearby. Additional garages within a short walk can be found at [717 W Temple St](https://goo.gl/maps/WNdZDbFb7AacKxi29), or [123 S. Figueroa St. ](https://goo.gl/maps/KP3FRSc3PALC3BUr5)(Promenade Towers). Metered street parking is also available in the area.
   image: "/uploads/3.gif"
   connect: []
 layout: post
