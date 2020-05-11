@@ -1,6 +1,6 @@
 ---
 title: After the Hearing
-date: 2020-05-01 10:00:00 +0000
+date: 2020-05-01T10:00:00.000+00:00
 order: 3
 description: Everything you need to know after your hearing has happened.
 by: Taimie Bryant
@@ -17,7 +17,7 @@ questions:
     in the City, subject to complying with the terms, conditions and restrictions
     the Department has ordered. See more information below. \[link\]
   image: ''
-  connect: []
+  connect: info/terms-conditions-and-restrictions.md
 - question: What happens if I do not comply with the TCR issued to me?
   answer: If you are alleged to be in violation of the TCR issued to you from a first
     hearing, the Department can request another administrative hearing. The purpose
@@ -51,6 +51,6 @@ questions:
     Animal Services’ Board of Commissioners. MORE INFO
   image: ''
   connect: []
-layout: 'post'
+layout: post
 
 ---
