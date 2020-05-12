@@ -26,6 +26,13 @@ questions:
     the animal poses a threat to public safety.
   image: ''
   connect: []
+- question: What happens if I don't go?
+  answer: |-
+    If you are an alleged victim and don't come to the hearing, the case against the animal is very likely to be dismissed because your story won't have been taken under oath.  Moreover, victims do not have a right to appeal the decision -- the hearing is the only opportunity for them to tell their story to the Department on the record.
+
+    If you are a pet owner and don't come to the hearing, only the alleged victim's side of the story will be told, meaning the outcome of the hearing could be worse than it would be if you were to appear and also tell your side of the story.  Moreover, pet owners can only appeal the ultimate decision reached by the Department if they appear for the hearing.
+  image: ''
+  connect: info/possible-outcomes-of-a-hearing.md
 - question: Where and when are hearings held?
   answer: 'The date and time of your hearing should be listed on your summons. All
     hearings are held downtown at the Department of Animal Services Headquarters:
